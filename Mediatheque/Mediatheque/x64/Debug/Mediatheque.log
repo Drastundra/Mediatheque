@@ -1,0 +1,128 @@
+﻿  CommandLineInterface.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'CommandLineInterface.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,40): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'CommandLineInterface.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CommandLineInterface.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\CommandLineInterface.cpp(23,24): error C2039: 'quoted': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(258,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\CommandLineInterface.cpp(23,24): error C3861: 'quoted': identifier not found
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\CommandLineInterface.cpp(23,12): error C2593: 'operator >>' is ambiguous
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(303,39):
+      could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(190,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(185,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(180,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(854,31):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\istream(859,31):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)'
+      C:\Users\greyw\source\repos\Mediatheque\Mediatheque\CommandLineInterface.cpp(23,12):
+      while trying to match the argument list '(std::istringstream, unknown-type)'
+  
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,40): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+  Media.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'Media.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(13,40): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'Media.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(22,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Media.cpp')
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,6): error C2039: 'optional': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\stdexcept(19,1):
+      see declaration of 'std'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,14): error C2059: syntax error: '<'
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,35): error C2039: 'getBorrower': is not a member of 'Media'
+      C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.h(8,7):
+      see declaration of 'Media'
+  
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,55): error C2143: syntax error: missing ';' before '{'
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(14,55): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(20,5): error C2065: 'borrower': undeclared identifier
+C:\Users\greyw\source\repos\Mediatheque\Mediatheque\Media.cpp(28,5): error C2065: 'borrower': undeclared identifier
+  MediaLibrary.cpp
+  Generating Code...
